@@ -1,6 +1,4 @@
-👋 Hi, I’m @BlakePetersen -- just stubbed this out real quick but will expand on this more. Stay tuned!
-
-I am a Staff Software Engineer with Twilio working on their console shell (console.twilio.com) after 4 years on the Web/MarCom team (www.twilio.com), previously with Dialpad and Meyer Corporation. 
+👋 Hi, I’m @BlakePetersen! I'm a staff sotfware engineer working for Twilio on the Console Platform team. I also have a handful of other side-projects in here mainly used as a means to explore agentic developer experiences to make my day to day work at Twilio more efficient, reliable, and effective. 
 
 <!---
 BlakePetersen/BlakePetersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
